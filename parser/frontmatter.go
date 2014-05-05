@@ -20,7 +20,7 @@ import (
 	"strings"
 
 	"github.com/BurntSushi/toml"
-	"launchpad.net/goyaml"
+	"gopkg.in/yaml.v1"
 )
 
 type FrontmatterType struct {
